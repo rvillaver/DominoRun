@@ -7,8 +7,8 @@ You’ve awaken as a cube in a world with domino tiles falling from the sky, bei
 Suddenly a vision, “Get all seven keys to open the door…”
 
 ## Components:
-1 Set of dominoes
-4 Six-sided dice 
+1 Set of dominoes,
+4 Six-sided dice,
 1 Black Cube, 1 White Cube
 ## Setup:
 Shuffle dominoes into a face down draw pile. Take 2 starting dice. Draw and place 5 domino tiles following 
