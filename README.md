@@ -1,5 +1,5 @@
 # DominoRun
-A pocket solo roll &amp; move game with a twist.
+A pocket print & play solo roll &amp; move game with a twist.
 ![](https://raw.githubusercontent.com/rvillaver/DominoRun/master/dominorun-ronald-villaver-cc_nc.jpg)
 
 You’ve awaken as a cube in a world with domino tiles falling from the sky, being chased by this ominous black cube for reasons unknown. All you can do is run. For some reason you know that the black cube must never catch you. You also know that, when you go past the double value domino tiles you gain power-ups that help you run better.
