@@ -19,23 +19,15 @@ the line or connect to a non-matching existing tile. (Example: in the domino tra
         Mulligan: At the start of the game you may draw a new set of tiles if you wish and return the rest.
 Place the black cube at the starting space of the line. Count 5 spaces from there and place the player’s white cube.
 ## Turn Structure:
-1.	Roll: Player rolls their dice.
-
-2.	Move: Move the white by paying the pip costs of one or more tile spaces in front of them. Use values on each dice in any order to pay for the movement cost.
-
-a.	If they are unable to fully pay the next space they must stop on their current space.
-
-b.	Moving through an empty space does not consume pips.
-
-c.	Once per turn you may combine two unused dice values to use for movement.
-
-d.	Whenever they pass a double value tile, they remove it from the line and collect it as a key. Keys also unlock a treasure of their choice:
-
-i.	Bonus Dice: Gain a new dice to add to their next roll.
-
-ii.	Bonus Ability: Draw until you find a non-double non-empty spaced tile from the pile and put it in front of the player face-up. Return the rest of the tiles drawn this way face-down. This tile allows the player once per turn to convert a die face of the lower value to the higher value.
-
-3.	Enemy: Move X spaces towards the player cube, where X = 2 + the number of keys the player controls. Whenever the enemy land on a spot where treasure was removed from, they end their movement for the turn. They can move into the nearest available tile space next turn as normal.
+1. Roll: Player rolls their dice.
+2. Move: Move the white by paying the pip costs of one or more tile spaces in front of them. Use values on each dice in any order to pay for the movement cost.
+  * If they are unable to fully pay the next space they must stop on their current space.
+  * Moving through an empty space does not consume pips.
+3. Once per turn you may combine two unused dice values to use for movement.
+4. Whenever they pass a double value tile, they remove it from the line and collect it as a key. Keys also unlock a treasure of their choice:
+  * Bonus Dice: Gain a new dice to add to their next roll.
+  * Bonus Ability: Draw until you find a non-double non-empty spaced tile from the pile and put it in front of the player face-up. Return the rest of the tiles drawn this way face-down. This tile allows the player once per turn to convert a die face of the lower value to the higher value.
+5. Enemy: Move X spaces towards the player cube, where X = 2 + the number of keys the player controls. Whenever the enemy land on a spot where treasure was removed from, they end their movement for the turn. They can move into the nearest available tile space next turn as normal.
 
 Damage: If the enemy catches reaches the player’s space and the player has a treasure, 
 
