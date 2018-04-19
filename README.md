@@ -32,19 +32,17 @@ Place the black cube at the starting space of the line. Count 5 spaces from ther
 ## Turn Structure:
 1. Roll: Player rolls their dice.
 2. Move: Move the white by paying the pip costs of one or more tile spaces in front of them. Use values on each dice in any order to pay for the movement cost.
-  * If they are unable to fully pay the next space they must stop on their current space.
-  * Moving through an empty space does not consume pips.
+ * If they are unable to fully pay the next space they must stop on their current space.
+ * Moving through an empty space does not consume pips.
 3. Once per turn you may combine two unused dice values to use for movement.
 4. Whenever they pass a double value tile, they remove it from the line and collect it as a key. Keys also unlock a treasure of their choice:
-  * Bonus Dice: Gain a new dice to add to their next roll.
-  * Bonus Ability: Draw until you find a non-double non-empty spaced tile from the pile and put it in front of the player face-up. Return the rest of the tiles drawn this way face-down. This tile allows the player once per turn to convert a die face of the lower value to the higher value.
+ * Bonus Dice: Gain a new dice to add to their next roll.
+ * Bonus Ability: Draw until you find a non-double non-empty spaced tile from the pile and put it in front of the player face-up. Return the rest of the tiles drawn this way face-down. This tile allows the player once per turn to convert a die face of the lower value to the higher value.
 5. Enemy: Move X spaces towards the player cube, where X = 2 + the number of keys the player controls. Whenever the enemy land on a spot where treasure was removed from, they end their movement for the turn. They can move into the nearest available tile space next turn as normal.
 
-Damage: If the enemy catches reaches the player’s space and the player has a treasure, 
+Damage: If the enemy catches reaches the player’s space and the player has a treasure, they sacrifice one treasure and return it back to its source. Move back the enemy to the start of the line. If the player is unable to sacrifice a treasure they lose the game.
 
-they sacrifice one treasure and return it back to its source. Move back the enemy to the start of the line. If they are unable to sacrifice a treasure they lose the game.
-
-4.	Cleanup: Remove all tiles behind the Enemy cube and return it face down to the draw pile. Draw and place tiles in front of the line ‘til X tiles are in front of the player cube where X = 2 + the number of keys the player controls.
+4.	Cleanup: Remove all tiles behind the Enemy cube and return it face down to the draw pile. Draw and place tiles in front of the line until X tiles are in front of the player cube where X = 2 + the number of keys the player controls.
 
 
 ## Victory: If the player controls all 7 keys they have won the game.
