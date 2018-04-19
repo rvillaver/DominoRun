@@ -10,14 +10,25 @@ Suddenly a vision, “Get all seven keys to open the door…”
 1 Set of dominoes,
 4 Six-sided dice,
 1 Black Cube, 1 White Cube
+
+
 ## Setup:
-Shuffle dominoes into a face down draw pile. Take 2 starting dice. Draw and place 5 domino tiles following 
-the Tile placement rule:
-Connect the tile with its matching space to the end of the previous tile to form a line. 
-If unable, orient the tile to position the lower of the two values instead whether starting 
+Shuffle dominoes into a face down draw pile. 
+
+Take 2 starting dice. 
+
+Draw and place 5 domino tiles following the Tile placement rule:
+
+  * Connect the tile with its matching space to the end of the previous tile to form a line. 
+
+  * If unable, orient the tile to position the lower of the two values instead whether starting 
 the line or connect to a non-matching existing tile. (Example: in the domino track as illustrated above the 0:5 tile followed the low to high orientation connecting with the 2:4, while the 5:1 connected its 5 to 5:0 tile since it matched.)
-        Mulligan: At the start of the game you may draw a new set of tiles if you wish and return the rest.
+  
+  * Mulligan: At the start of the game you may draw a new set of tiles if you wish and return the rest.
+
 Place the black cube at the starting space of the line. Count 5 spaces from there and place the player’s white cube.
+
+
 ## Turn Structure:
 1. Roll: Player rolls their dice.
 2. Move: Move the white by paying the pip costs of one or more tile spaces in front of them. Use values on each dice in any order to pay for the movement cost.
