@@ -18,7 +18,7 @@ Suddenly a vision, “Get all seven keys to escape…”
 
 ![](https://raw.githubusercontent.com/rvillaver/DominoRun/master/domino-run.jpg)
 ### Tile placement rule:
-Connect the tile with its matching space to the end of the previous tile to form a line. If unable, connect the tile oriented from low to high in pip values value. (Ex. in the domino track as illustrated above the 0:5 tile followed the low to high orientation connecting with the 2:4, while the 5:1 connected its 5 to 5:0 tile since it matched.)
+Connect the tile with its matching space to the end of the previous tile to form a line. If unable, connect the tile oriented from low to high in pip values value. _(Ex. in the domino track as illustrated above the 0:5 tile followed the low to high orientation connecting with the 2:4, while the 5:1 connected its 5 to 5:0 tile since it matched.)_
 
 __Mulligan:__ At the start of the game you may draw a new set of tiles if you wish and return the rest.
 
@@ -30,7 +30,7 @@ __Mulligan:__ At the start of the game you may draw a new set of tiles if you wi
 You roll your dice pool (starts with 2).
 
 ### 2. Move: 
-Use each dice by it value to move the white cube that many spaces forward paying the pips required by each space (Ex. in the figure above, if you rolled (2) fives, you can use the first (5) to move on the 5 pip space, then use the next (5) to move through the 1 and 4 spaces.)
+Use each dice by it value to move the white cube that many spaces forward paying the pips required by each space _(Ex. in the figure above, if you rolled (2) fives, you can use the first (5) to move on the 5 pip space, then use the next (5) to move through the 1 and 4 spaces.)_
   - If you are unable to fully pay the next space you must stop on the current space.
   - Moving through an empty space does not cost pips.
   - Once per turn you may __combine two unused dice values__ to use for moving.
@@ -42,10 +42,10 @@ Use each dice by it value to move the white cube that many spaces forward paying
 Move X spaces towards the white cube, where X = 2 + the number of keys the you claimed. Whenever the enemy lands on a flipped tile, remove that tile from the line and set it in front of you face-down, the enemy ends its movement on the space where the tile was removed.
 
   - __Damage:__ If the enemy catches reaches the your space and you still own a bonus treasure,
-sacrifice one of your treasure and return it back to its source. Move the enemy in front of the first tile of the line. If you are unable to sacrifice a treasure you lose the game.
+sacrifice one of your treasure and return it back to its source. Move the enemy in the empty space in front of the first tile of the line. __If you are unable to sacrifice a treasure you lose the game.__
 
 ### 4. Cleanup: 
 - Remove all tiles behind the Enemy cube and return it face down to the draw pile. 
-- Draw and place tiles in front of the line until X tiles are in front of the white cube  		where X = 2 + the number of keys you control.
+- Draw and place tiles in front of the line until X tiles are in front of the white cube where X = 2 + the number of keys you control.
 
 ## Victory: If you controls all 7 keys you win!
