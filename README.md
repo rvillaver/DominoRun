@@ -12,7 +12,7 @@ Suddenly a vision, “Get all seven keys to escape…”
 
 1 Black Cube, 1 White Cube
 
-![](https://raw.githubusercontent.com/rvillaver/DominoRun/blob/master/domino-run.jpg)
+![](https://raw.githubusercontent.com/rvillaver/DominoRun/master/domino-run.jpg)
 
 ## Setup:
 
