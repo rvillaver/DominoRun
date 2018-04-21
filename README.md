@@ -30,7 +30,7 @@ Suddenly a vision, “Get all seven keys to escape…”
 You roll your dice pool (starts with 2).
 
 ### 2. Move: 
-Use each dice by it value to move the white cube that many spaces forward paying the pips required by each space _(Ex. in the figure above, if you rolled (2) fives, you can use the first (5) to move on the 5 pip space, then use the next (5) to move through the 1 and 4 spaces.)_
+Use each dice by its value to move the white cube that many spaces forward paying the pips required by each space _(Ex. in the figure above, if you rolled (2) fives, you can use the first (5) to move on the 5 pip space, then use the next (5) to move through the 1 and 4 spaces.)_
   - If you are unable to fully pay the next space you must stop on the current space.
   - Moving through an empty space does not cost pips.
   - Once per turn you may __combine two unused dice values__ to use for moving.
