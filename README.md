@@ -12,14 +12,15 @@ Suddenly a vision, “Get all seven keys to escape…”
 
 1 Black Cube, 1 White Cube
 
-![](https://raw.githubusercontent.com/rvillaver/DominoRun/master/domino-run.jpg)
-
 ## Setup:
 
 1. Shuffle dominoes into a face down draw pile. Take 2 starting dice. Draw and place 5 domino tiles following the 
+
+![](https://raw.githubusercontent.com/rvillaver/DominoRun/master/domino-run.jpg)
 ### Tile placement rule:
--- Connect the tile with its matching space to the end of the previous tile to form a line. If unable, connect the tile oriented from low to high in pip values value. (Ex. in the domino track as illustrated above the 0:5 tile followed the low to high orientation connecting with the 2:4, while the 5:1 connected its 5 to 5:0 tile since it matched.)
-- Mulligan: At the start of the game you may draw a new set of tiles if you wish and return the rest.
+Connect the tile with its matching space to the end of the previous tile to form a line. If unable, connect the tile oriented from low to high in pip values value. (Ex. in the domino track as illustrated above the 0:5 tile followed the low to high orientation connecting with the 2:4, while the 5:1 connected its 5 to 5:0 tile since it matched.)
+
+__Mulligan:__ At the start of the game you may draw a new set of tiles if you wish and return the rest.
 
 2. Place the enemy black cube at the starting space of the line. Count 5 spaces from there and place the your white cube.
 
