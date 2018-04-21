@@ -24,7 +24,7 @@ Suddenly a vision, “Get all seven keys to escape…”
 
   __Mulligan:__ At the start of the game you may draw a new set of tiles if you wish and return the rest.
 
-2. Place the enemy black cube at the starting space of the line. Count 5 spaces from there and place the your white cube.
+2. Place the enemy black cube at the starting space of the line. Count 5 spaces from there and place your white cube.
 
 ## Turn Structure:
 
@@ -43,7 +43,7 @@ Use each dice by its value to move the white cube that many spaces forward payin
 ### 3. Enemy: 
 Move X spaces towards the white cube, where X = 2 + the number of keys the you claimed. Whenever the enemy lands on a flipped tile, remove that tile from the line and set it in front of you face-down, the enemy ends its movement on the space where the tile was removed.
 
-  - __Damage:__ If the enemy catches reaches the your space and you still own a bonus treasure,
+  - __Damage:__ If the enemy catches / reaches the your space and you still own a bonus treasure,
 sacrifice one of your treasure and return it back to its source. Move the enemy in the empty space in front of the first tile of the line. __If you are unable to sacrifice a treasure you lose the game.__
 
 ### 4. Cleanup: 
