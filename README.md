@@ -1,5 +1,5 @@
 # Domino Run: A solo roll & move adventure game. 
-Designed by Ronald Villaver CC Attribution-NonCommercial (CC BY-NC)
+Designed by Ronald Villaver [(CC BY-NC 3.0 PH)](https://creativecommons.org/licenses/by-nc/3.0/ph/)
 
 You’ve awaken as a cube in a world with domino tiles falling from the sky, being chased by this ominous black cube for reasons unknown. All you can do is run. For some reason you know that the black cube must never catch you. You also know that, when you complete double value domino tiles you gain power-ups that help you run better.
 Suddenly a vision, “Get all seven keys to escape…”
