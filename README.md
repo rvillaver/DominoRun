@@ -12,6 +12,8 @@ Suddenly a vision, “Get all seven keys to escape…”
 
 1 Black Cube, 1 White Cube
 
+![](https://raw.githubusercontent.com/rvillaver/DominoRun/blob/master/domino-run.jpg)
+
 ## Setup:
 
 1. Shuffle dominoes into a face down draw pile. Take 2 starting dice. Draw and place 5 domino tiles following the 
