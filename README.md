@@ -28,14 +28,16 @@ __Mulligan:__ At the start of the game you may draw a new set of tiles if you wi
 
 ### 1. Roll: 
 You roll your dice pool (starts with 2).
+
 ### 2. Move: 
 Use each dice by it value to move the white cube that many spaces forward paying the pips required by each space (Ex. in the figure above, if you rolled (2) fives, you can use the first (5) to move on the 5 pip space, then use the next (5) to move through the 1 and 4 spaces.)
-- If you are unable to fully pay the next space you must stop on the current space.
-- Moving through an empty space does not cost pips.
-- Once per turn you may __combine two unused dice values__ to use for moving.
-- __Keys:__ Whenever you complete a key by moving on the 2nd space of a double value tile, flip that tile face-down as a key and unlock a treasure of your choice:
-* __Bonus Dice:__ Gain a new dice to add to your next roll.
-* __Bonus Ability:__ Draw until you find a non-double non-empty spaced tile from the pile and put it in front of you face-up. Return the rest of the tiles drawn this way face-down. This tile allows the you once per turn to convert a die face of the lower value to the higher value.
+  - If you are unable to fully pay the next space you must stop on the current space.
+  - Moving through an empty space does not cost pips.
+  - Once per turn you may __combine two unused dice values__ to use for moving.
+  - __Keys:__ Whenever you complete a key by moving on the 2nd space of a double value tile, flip that tile face-down as a key and unlock a treasure of your choice:
+    * __Bonus Dice:__ Gain a new dice to add to your next roll.
+    * __Bonus Ability:__ Draw until you find a non-double non-empty spaced tile from the pile and put it in front of you face-up. Return the rest of the tiles drawn this way face-down. This tile allows the you once per turn to convert a die face of the lower value to the higher value.
+
 ### 3. Enemy: 
 Move X spaces towards the white cube, where X = 2 + the number of keys the you claimed. Whenever the enemy lands on a flipped tile, remove that tile from the line and set it in front of you face-down, the enemy ends its movement on the space where the tile was removed.
 
