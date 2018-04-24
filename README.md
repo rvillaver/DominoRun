@@ -36,7 +36,7 @@ Use each dice by its value to move the white cube that many spaces forward payin
   - If you are unable to fully pay the next space you must stop on the current space.
   - Moving through an empty space does not cost pips.
   - Once per turn you may __combine two unused dice values__ to use for moving.
-  - __Keys:__ Whenever you complete a key by moving on the 2nd space of a double value tile, flip that tile face-down as a key and unlock a treasure of your choice:
+  - __Keys:__ Whenever you complete a key by moving on the 2nd space of a double value tile, flip that tile face-down as a __claimed key__ and unlock a treasure of your choice:
     * __Bonus Dice:__ Gain a new dice to add to your next roll.
     * __Bonus Ability:__ Draw until you find a non-double non-empty spaced tile from the pile and put it in front of you face-up. Return the rest of the tiles drawn this way face-down. This tile allows the you once per turn to convert a die face of the lower value to the higher value.
 
@@ -48,6 +48,6 @@ sacrifice one of your treasure and return it back to its source. Move the enemy 
 
 ### 4. Cleanup: 
 - Remove all tiles behind the Enemy cube and return it face down to the draw pile. 
-- Draw and place tiles in front of the line until X tiles are in front of the white cube where X = 2 + the number of keys you control.
+- Draw and place tiles in front of the line until X tiles are in front of the white cube where X = 2 + the number of keys you claimed.
 
-## Victory: If you controls all 7 keys you win!
+## Victory: If you claimed all 7 keys you win!
