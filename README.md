@@ -44,7 +44,7 @@ Use each dice by its value to move the white cube that many spaces forward payin
 Move X spaces towards the white cube, where X = 2 + the number of keys the you claimed. Whenever the enemy lands on a flipped tile, remove that tile from the line and set it in front of you face-down, the enemy ends its movement on the space where the tile was removed.
 
   - __Damage:__ If the enemy catches / reaches the your space and you still own a bonus treasure,
-sacrifice one of your treasure and return it back to its source. Move the enemy in the empty space in front of the first tile of the line. __If you are unable to sacrifice a treasure you lose the game.__
+sacrifice one of your treasure and return it back to its source. Move the enemy to the __empty space__ at the back of the first tile of the line. __If you are unable to sacrifice a treasure you lose the game.__
 
 ### 4. Cleanup: 
 - Remove all tiles behind the Enemy cube and return it face down to the draw pile. 
