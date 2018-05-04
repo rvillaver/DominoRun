@@ -38,13 +38,13 @@ Use each dice by its value to move the white cube that many spaces forward payin
   - Once per turn you may __combine two unused dice values__ to use for moving.
   - __Keys:__ Whenever you complete a key by moving on the 2nd space of a double value tile, flip that tile face-down as a __claimed key__ and unlock a treasure of your choice:
     * __Bonus Dice:__ Gain a new dice to add to your next roll.
-    * __Bonus Ability:__ Draw until you find a non-double non-empty spaced tile from the pile and put it in front of you face-up. Return the rest of the tiles drawn this way face-down. This tile allows the you once per turn to convert a die face of the lower value to the higher value.
+    * __Bonus Ability:__ Draw until you find a non-double non-empty spaced tile from the pile and put it in front of you face-up. Return the rest of the tiles drawn this way face-down. This tile allows you once per turn to convert a die face of the lower value to the higher value.
 
 ### 3. Enemy: 
-Move X spaces towards the white cube, where X = 2 + the number of keys the you claimed. Whenever the enemy lands on a flipped tile, remove that tile from the line and set it in front of you face-down, the enemy ends its movement on the space where the tile was removed.
+Move X spaces towards the white cube, where X = 2 + the number of keys you claimed. Whenever the enemy lands on a flipped tile, remove that tile from the line and set it in front of you face-down, the enemy ends its movement in the __pit__ where the tile was removed.
 
-  - __Damage:__ If the enemy catches / reaches the your space and you still own a bonus treasure,
-sacrifice one of your treasure and return it back to its source. Move the enemy to the __empty space__ at the back of the first tile of the line. __If you are unable to sacrifice a treasure you lose the game.__
+  - __Damage:__ If the enemy catches / reaches your space and you still own a bonus treasure,
+sacrifice one of your treasure and return it back to its source. Move the enemy to the __pit__ at the back of the first tile of the line. __If you are unable to sacrifice a treasure you lose the game.__
 
 ### 4. Cleanup: 
 - Remove all tiles behind the Enemy cube and return it face down to the draw pile. 
